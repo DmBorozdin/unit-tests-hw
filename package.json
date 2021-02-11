@@ -1,7 +1,6 @@
 {
   "name": "unit-tests-hw",
   "version": "1.0.0",
-  "description": "",
   "main": "capitalize.js",
   "scripts": {
     "test": "jest"
@@ -17,9 +16,10 @@
   },
   "homepage": "https://github.com/WebHeroSchool/unit-tests-hw#readme",
   "devDependencies": {
-    "jest": "^26.0.1"
+    "jest": "^26.6.3"
   },
   "dependencies": {
     "axios": "^0.19.2"
-  }
+  },
+  "description": ""
 }
