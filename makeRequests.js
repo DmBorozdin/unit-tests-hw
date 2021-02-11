@@ -60,7 +60,7 @@ const makeRequests = (urls, maxRequests) => {
                 const url = urls[currentIndex];
 
                 if (urlsStatus[url].status === 'waiting') {
-                    axios({
+                    axios.get({
                         url
                     })
                         .then(requestResolved(url), requestRejected);
