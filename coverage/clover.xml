@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1613401126232" clover="3.2.0">
-  <project timestamp="1613401126232" name="All files">
-    <metrics statements="39" coveredstatements="39" conditionals="8" coveredconditionals="8" methods="13" coveredmethods="12" elements="60" coveredelements="59" complexity="0" loc="39" ncloc="39" packages="1" files="2" classes="2"/>
-    <file name="makeRequests.js" path="D:\Мои документы\учёба WebHero\unit-tests\makeRequests.js">
+<coverage generated="1613457319869" clover="3.2.0">
+  <project timestamp="1613457319869" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="8" coveredconditionals="8" methods="13" coveredmethods="13" elements="60" coveredelements="60" complexity="0" loc="39" ncloc="39" packages="1" files="2" classes="2"/>
+    <file name="makeRequests.js" path="D:\Мои документы\Дима\WebHeroScholl\Unit-tests\makeRequests.js">
       <metrics statements="35" coveredstatements="35" conditionals="8" coveredconditionals="8" methods="9" coveredmethods="9"/>
       <line num="1" count="1" type="stmt"/>
       <line num="23" count="1" type="stmt"/>
@@ -40,11 +40,11 @@
       <line num="76" count="11" type="stmt"/>
       <line num="80" count="1" type="stmt"/>
     </file>
-    <file name="rejectOnTimeout.js" path="D:\Мои документы\учёба WebHero\unit-tests\rejectOnTimeout.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
+    <file name="rejectOnTimeout.js" path="D:\Мои документы\Дима\WebHeroScholl\Unit-tests\rejectOnTimeout.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
       <line num="19" count="1" type="stmt"/>
     </file>
   </project>
