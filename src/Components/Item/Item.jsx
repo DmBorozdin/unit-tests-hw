@@ -24,7 +24,7 @@ const Item = (
         <div className={classnames({[styles.wrapper]: true, [styles.isImportant]: isImportant})}>
             <div className={styles.wrapper__text}>
                 <Checkbox color="primary" checked={isDone} tabIndex={-1} onClick={() => onClickDone(id)}/>
-                <span className={classnames({[styles.item]: true, [styles.done]: isDone})}> {value} </span>
+                <span className={classnames({[styles.item]: true, [styles.done]: isDone})}>{value}</span>
             </div>
 
             <div className={styles.wrapper__icon}>
